@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  host: "https://fast-wildwood-35534.herokuapp.com/"
+
 };
